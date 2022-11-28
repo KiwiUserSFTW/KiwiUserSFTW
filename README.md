@@ -1,5 +1,6 @@
-- 👋 Hi, i'm Daniell
-- 👀 I’m interested in JavaScript front/back
-- 🌱 I’m currently learning Node js and frame (Express)
-- 💞️ I’m looking to collaborate with paopls who too have intresting in this dereciton
-- 📫 How to reach me; inst:@daniel_kiwi1 or Telegram:@Kiwiuser
+- 👋 Hi, i'm Daniell - JavaScript fullstack junior;
+-  How to reach me: Telegram:@Kiwiuser;
+-  knowlage: 
+-  native JavaScript; Node.js/Express.js with sql/mongodb;
+-  can use :
+-  React.js and another databases;
