@@ -1,6 +1,15 @@
-- 👋 Hi, i'm Daniell - JavaScript fullstack junior;
--  How to reach me: Telegram:@Kiwiuser;
--  knowlage: 
--  native JavaScript; Node.js/Express.js with sql/mongodb;
--  can use :
--  React.js and another databases;
+-  Hi, i'm Daniell - JavaScript Front-end developer;
+-  How to reach me: Telegram: @Kiwiuser or mu linkedIn in "contacts";
+-  My stack: 
+-  Front-end {
+-     React.js / HTML / CSS / MUI / Styled-C
+-  }
+-  Back-end {
+-     Node.js + Express.js
+-  }
+-  DataBases {
+-    SQL / MongoDb
+-  }
+-  Deploy {
+-    Netifly / AWS(L)
+- }
