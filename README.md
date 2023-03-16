@@ -4,12 +4,15 @@
 -  Front-end {
 -     React.js / HTML / CSS / MUI / Styled-C
 -  }
+-  
 -  Back-end {
 -     Node.js + Express.js
 -  }
+-  
 -  DataBases {
 -    SQL / MongoDb
 -  }
+-  
 -  Deploy {
 -    Netifly / AWS(L)
 - }
