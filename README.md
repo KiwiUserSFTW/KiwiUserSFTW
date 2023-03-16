@@ -14,5 +14,5 @@
 -  }
 -  
 -  Deploy {
--    Netifly / AWS(L)
+-    Netlify / AWS(L)
 - }
