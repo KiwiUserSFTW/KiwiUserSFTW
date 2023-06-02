@@ -2,7 +2,7 @@
 -  How to reach me: Telegram: @Kiwiuser or mu linkedIn in "contacts";
 -  My stack: 
 -  Front-end {
--     React.js / HTML / CSS / MUI / Styled-C
+-     React.js / Typescript / Redux / Redux ToolKit / Redux thunk / HTML / CSS / MUI / Styled-C
 -  }
 -  
 -  Back-end {
@@ -16,3 +16,5 @@
 -  Deploy {
 -    Netlify / AWS(L)
 - }
+
+design patterns, SOLID, OOP
