@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Daniel Kostenko
+# Hi, I'm Daniel Kostenko
 
-💻 **Frontend Engineer (React/TypeScript)**  
+**Frontend Engineer (React/TypeScript)**  
 Passionate about building scalable web apps with clean architecture, strong typing, and modern tooling.  
 Currently seeking new opportunities in **Frontend / Fullstack development**.
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 - Telegram: [@Kiwiuser](https://t.me/Kiwiuser)  
 - LinkedIn: [linkedin.com/in/danielkostenko](https://de.linkedin.com/in/danielkostenko)  
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - React 18, TypeScript, Redux Toolkit, Redux Thunk  
