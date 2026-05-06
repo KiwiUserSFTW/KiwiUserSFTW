@@ -8,54 +8,9 @@ Most of my hands-on experience is centered around React, TypeScript, Node.js, Po
 
 ## Tech Stack
 
-### Frontend
-- React 18
-- TypeScript
-- Redux Toolkit
-- React Router
-- HTML5 / CSS3 / SCSS
-- Tailwind
-- Styled-components
-- Material UI
+## Stack
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-
-### Database
-- PostgreSQL
-- MongoDB
-- MySQL
-- Prisma ORM
-
-### Cloud / DevOps
-- Docker
-- GitHub Actions
-- AWS (EC2, S3, RDS, IAM)
-- CI/CD
-- Vercel
-- Netlify
-- Linux / Bash
-
-### Testing & Engineering
-- Jest
-- Vitest
-- React Testing Library
-- TDD
-- SOLID
-- OOP
-- Design Patterns
-- Clean Architecture
-
----
-
-## Current Focus
-- fullstack architecture
-- backend systems
-- cloud & infrastructure
-- scalable and maintainable applications
+React • TypeScript • Node.js • GraphQL • PostgreSQL • Prisma • Docker • AWS • GitHub Actions • Testing • Clean Architecture
 
 ---
 
