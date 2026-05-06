@@ -6,8 +6,6 @@ Most of my hands-on experience is centered around React, TypeScript, Node.js, Po
 
 ---
 
-## Tech Stack
-
 ## Stack
 
 React • TypeScript • Node.js • GraphQL • PostgreSQL • Prisma • Docker • AWS • GitHub Actions • Testing • Clean Architecture
