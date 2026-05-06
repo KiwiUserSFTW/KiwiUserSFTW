@@ -1,40 +1,63 @@
 # Hi, I'm Daniel Kostenko
 
-**Frontend Engineer (React/TypeScript)**  
-Passionate about building scalable web apps with clean architecture, strong typing, and modern tooling.  
-Currently seeking new opportunities in **Frontend / Fullstack development**.
+Fullstack Engineer focused on building scalable web applications with modern TypeScript ecosystems, backend services, and cloud-oriented workflows.
+I enjoy working across the full stack — from frontend architecture and API development to deployment, infrastructure, and developer tooling.
+Most of my hands-on experience is centered around React, TypeScript, Node.js, PostgreSQL, Docker, and modern cloud-based development workflows.
 
----
-
-## How to reach me
-- Telegram: [@Kiwiuser](https://t.me/Kiwiuser)  
-- LinkedIn: [linkedin.com/in/danielkostenko](https://de.linkedin.com/in/danielkostenko)  
 ---
 
 ## Tech Stack
 
-**Frontend**
-- React 18, TypeScript, Redux Toolkit, Redux Thunk  
-- HTML5, CSS3, SCSS, Material UI, Styled-components  
+### Frontend
+- React 18
+- TypeScript
+- Redux Toolkit
+- React Router
+- HTML5 / CSS3 / SCSS
+- Tailwind
+- Styled-components
+- Material UI
 
-**Backend**
-- Node.js + Express.js  
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
 
-**Databases**
-- PostgreSQL, MySQL, MongoDB  
+### Database
+- PostgreSQL
+- MongoDB
+- MySQL
+- Prisma ORM
 
-**DevOps / Deploy**
-- Netlify, Vercel, AWS (basic), GitHub Actions (CI/CD)  
+### Cloud / DevOps
+- Docker
+- GitHub Actions
+- AWS (EC2, S3, RDS, IAM)
+- CI/CD
+- Vercel
+- Netlify
+- Linux / Bash
 
-**Practices**
-- SOLID, OOP, Design Patterns, Clean Architecture  
-- Testing: Jest, React Testing Library, Vitest, TDD  
+### Testing & Engineering
+- Jest
+- Vitest
+- React Testing Library
+- TDD
+- SOLID
+- OOP
+- Design Patterns
+- Clean Architecture
 
 ---
 
+## Current Focus
+- fullstack architecture
+- backend systems
+- cloud & infrastructure
+- scalable and maintainable applications
+
 ---
 
-## About Me
-- Based in Germany, open to relocation/remote work in EU  
-- Strong interest in scalable frontend architecture and DX/UX improvements  
-- Fast learner, proactive team player, and advocate of clean, testable code
+## Contact
+- LinkedIn: https://de.linkedin.com/in/danielkostenko
